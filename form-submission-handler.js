@@ -102,8 +102,4 @@
       buttons[i].disabled = true;
     }
   }
-
-  function redirect() {
-    location.href = 'contact-form-thank-you.html';
-  }
 })();
