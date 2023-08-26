@@ -288,7 +288,7 @@ a:hover
 .container
 {
 	margin: 5px auto;
-	width: 80%;
+	width: 90%;
 }
 
 /* IMAGE STYLE */ 
@@ -547,7 +547,7 @@ ul.style2 .icon
     max-height:25%;
     border-radius: 50%;
     float: left;
-    margin-right: 45px;
+    margin-right: 25px;
     display: flex;
 }
 
